@@ -14,7 +14,7 @@ where {
     {select ?s where {
     graph <https://broker.semantify.it/graph/Or1IAoO73z/WrJWA3u72z/latest> {
         ?search a inst:recipeConn ;
-        :query "Paprika && Eier" ;
+        :query "{ingredients}" ;
         :entities ?s.
         ?s a schema:Recipe.
         ?s schema:interactionCount ?icount.

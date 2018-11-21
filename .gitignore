@@ -1,1 +1,3 @@
 docker-mycroft/
+env/
+__pycache__
