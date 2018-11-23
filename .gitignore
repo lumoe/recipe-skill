@@ -1,6 +1,3 @@
-# Local installation of mycroft 
-docker-mycroft/
-
 # Python specific 
 env/
 __pycache__
