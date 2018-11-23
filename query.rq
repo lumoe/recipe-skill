@@ -17,20 +17,7 @@ where {
         :query "{ingredients}" ;
         :entities ?s.
         ?s a schema:Recipe.
-        ?s schema:interactionCount ?icount.
-        #{diff}?s schema:recipeCategory ?cateDiff.
-        #{time}?s schema:totalTime ?totalTime.
-        #{name}?s schema:name ?recName.
-
-        bind(STRAFTER(str(?icount),"UserViews: ") as ?realCount)
-
-        #{diff}bind(STRAFTER(str(?cateDiff),"difficulty=") as ?difficulty)
-        #{time}bind(substr(str(?totalTime),3,strlen(?totalTime)-3) as ?durationAmount)
-
-
-        #{diff}filter(?difficulty!="" && xsd:integer(?difficulty){diffSign}3)
-        #{time}filter(xsd:decimal(?durationAmount) <= {timeSlot})
-        #{name}filter(contains(lcase(str(?recName)), "{nameSlot}"))
+        ?s schema:interactionCount ?icount
     }
 }
 order by desc(xsd:integer(?realCount))
