@@ -20,7 +20,7 @@ class RecipeSkill(MycroftSkill):
         r = json.loads(query_graph({"ingredient": [message.data['ingredient']]}))
         first_recipe =  r['results']['bindings'][0]['name']['value']
 
-        self.speak_dialog("recipes.with.ingredients", data={"ingredient": first_recipe})
+        self.speak_dialog("recipes.with.ingredients", data={"recipe": first_recipe})
 
 def execute_query(input_data):
     URI = 'http://graphdb.sti2.at:8080/repositories/broker-graph'
