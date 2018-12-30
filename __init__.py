@@ -22,6 +22,16 @@ class RecipeSkill(MycroftSkill):
         total_time =  r['results']['bindings'][0]['totalTime']['value'].replace('PT','').replace('M', '')
         
         self.speak_dialog("recipes.with.ingredients", data={"recipe": first_recipe, "total_time": total_time})
+    
+    @intent_file_handler('recipe.time.low.intent')
+    def handle_recipe_with_ingredients_time_low(self, message):
+        r = json.loads(query_graph({"ingredient": [message.data['ingredient']]}))
+        fastest_recipe_index = get_recipe_with_lowest_cooking_time(r)
+        first_recipe =  r['results']['bindings'][fastest_recipe_index]['name']['value']
+        total_time =  r['results']['bindings'][fastest_recipe_index]['totalTime']['value'].replace('PT','').replace('M', '')
+        
+        self.speak_dialog("recipes.with.ingredients.time.low", data={"recipe": first_recipe, "total_time": total_time})
+
 
 def execute_query(input_data):
     URI = 'http://graphdb.sti2.at:8080/repositories/broker-graph'
@@ -51,3 +61,15 @@ def query_graph(data):
 
 def create_skill():
     return RecipeSkill()
+
+def get_recipe_with_lowest_cooking_time(recipes):
+    times = list(map(lambda x: x['totalTime']['value'].replace('PT','').replace('M', ''), recipes['results']['bindings']))
+    lowest_time_index = 0
+    for i, time in enumerate(times): 
+        if time < times[lowest_time_index]:
+            lowest_time_index = i
+    
+    return lowest_time_index
+
+if __name__ == '__main__':
+    get_recipe_with_lowest_cooking_time('')

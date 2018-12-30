@@ -1,0 +1,2495 @@
+{
+  "head": {
+    "vars": [
+      "ingredients",
+      "recipe",
+      "name",
+      "recYield",
+      "recImage",
+      "totalTime",
+      "icount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Egg"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 pinch Salt"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "250 g Flour"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Icing sugar (for sprinkling)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 tbsp Butter"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 tsp Cinnomon"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "some  Water (cold)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 tsp Butter"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "15 pieces Cooking apples (medium-sized)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "7-8 tbsp Bread crumbs"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "70 g Raisins"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "70 g Almonds (finely chopped)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Sugar according (to taste)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1/2 piece Lemon (grated peel)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 10607"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Preheat oven to 180°C. Sift the flour into a bowl and make a well in the centre. Put all other dough ingredients into the well, mix and quickly knead into smooth dough with all the flour. It should neighter stick to the work surface (board) not to your hands. Shape a loaf out of the dough, cover with a damp kitchen cloth and leave to rest for 1 hour at room temperature.Meanwhile prepare the filling: Fry the breadcrumbs in the butter. Peel, core and halve the apple and cut into approx. 4-5 mm thick slices. Mix with the remaining filling ingredients.Using a rolling pin roll out the dough on a floured work surface or on a table cloth as far as possible, lift the dough with the back of both hands and stretch to all sides slowly and carefully until the dough is as thin as possible (take off your rings). Place the filling onto the dough, roll it up using the cloth and put onto a baking sheet (covered with baking paper). Blend the egg and melted butter and brush the strudel with this mixture. Bake in the oven for approximately 45 minutes."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Old Viennese Apple Strudel"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "40 g Melted butter (for coating)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/old-viennese-apple-strudel-img-2932.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "60 g Raisins (soaked in rum)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Icing sugar (for dusting)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "100 g Sugar"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Strudel pastry (as for the curd cheese strudel)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1,5 kg Apples (Elstar or other similar type)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Lemon (juice)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "200 g Butter (melted)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "2 tbsps Vanilla sugar"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "100 g Bread crumbs"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 pinch Cinnamon powder"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Butter (for daubing)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 16182"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Prepare the pastry as for thecurd cheese strudel. Peel and seed the apples. Slice into very thin slices. Dribble over some lemon juice. In a bowl, combine 2 tablespoons of raisins and 1 tablespoon of vanilla sugar. Brush the pastry dough with half of the melted butter, using the rest of the butterto fry the breadcrumbs. Combine the crumbs with the rest of the vanilla sugar and cinnamon and sprinkle over the pastry. Distribute the apples evenly over the pastry. Roll with the help of a dish towel. Make sure the ends arewell closed. Place the strudel on a greased baking tray. (If the tray is too small, bend the strudel into a horseshoe shape). Brush with the beaten egg and bake in a preheated oven at 180 °C for 30–40 minutes, occasionally brushing with melted butter. When done, let the strudel cool, and dust with icing sugar. The strudel can be served either warm or cold."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple Strudel à la Sacher"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Egg (for daubing)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/apple-strudel-a-la-sacher-img-2320.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 2070"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT15M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Peel the apples and cut into slices. Remove seeds. Grate the apples, quickly adding lemon juice and mix well with the rest of the ingredients."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple-horseradish sauce"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Salt"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/0/default-img-0.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 2070"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT15M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Peel the apples and cut into slices. Remove seeds. Grate the apples, quickly adding lemon juice and mix well with the rest of the ingredients."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple-horseradish sauce"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "3-4 pieces Apples (tart)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/0/default-img-0.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 2070"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT15M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Peel the apples and cut into slices. Remove seeds. Grate the apples, quickly adding lemon juice and mix well with the rest of the ingredients."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple-horseradish sauce"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 tbsp Icing sugar"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/0/default-img-0.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 2070"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT15M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Peel the apples and cut into slices. Remove seeds. Grate the apples, quickly adding lemon juice and mix well with the rest of the ingredients."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple-horseradish sauce"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "2 cl Lemon juice"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/0/default-img-0.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 2070"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT15M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Peel the apples and cut into slices. Remove seeds. Grate the apples, quickly adding lemon juice and mix well with the rest of the ingredients."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple-horseradish sauce"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "30 g Horseradish (grated)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/0/default-img-0.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 2070"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT15M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Peel the apples and cut into slices. Remove seeds. Grate the apples, quickly adding lemon juice and mix well with the rest of the ingredients."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apple-horseradish sauce"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "a few drops Beef stock"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/0/default-img-0.jpg"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Salt"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Pepper"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Vinegar"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "200 g Herring (marinated, fileted)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "2 pieces Sour apples (100g e.g. Elstar, Granny Smith, Boskop, Cox Orange)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "500 g Firm potatoes (e.g. Kipfler)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "80 g Pickles"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "60 g Cooked white beans"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 tbsp Capers"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Onion (approx. 60g)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 tsp Anchovy paste"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1/4 l Sour cream"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Estragon mustard"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Egg yolk"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1/8 l Vegetable oil"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 tsp Mustard"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3052"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT30M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Wash potatoes, cook, peel and cut into 1 cm sized cubes. Chop herrings and pickles likewise into approx. 1 cm large cubes. Peel apples and remove core and seeds, dice. Peel onion, chop finely. Mix potatoes, pickles, herrings, apple cubes, onion and beans.Prepare mayonnaise: Mix egg yolk, mustard, lemon juice, salt and pepper until smooth. Add oil drop by drop while constantly mixing until the mayonnaise becomes thick. Then add a bit more oil. Mix until the oil is used up, taste. Mix sour cream into mayonnaise, add vinegar, salt, pepper, horseradish, anchovy paste and capers to make a savoury marinade.Let the salad rest, season to taste again with vinegar or lemon juice, salt and pepper. Decorate with hard boiled egg-quarters, possibly a bit of parsley, a few finely chopped capers and pickles cut into a fan shape before serving."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Viennese herring salad"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 dash Lemon juice"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/viennese-herring-salad-img-4448.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Salt"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Egg"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Ground pepper"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Egg yolk"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Onion"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 leaf Bay"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Caraway seeds (powdered)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "2 tbsps Brown sugar"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "2 tbsps Butter"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Nutmeg"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Free-range duck (approx. 2-2,3kg)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Onion (for the stuffing)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Onion (sliced for frying)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Apple"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 sprig Marjoram (and savory)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 pinch Caraway seeds (powdered)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "300 ml Chicken stock"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "50 ml Sweet wine"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Cornstarch"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Grapes (for garnish)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "100 g Semolina"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Shallot (finely chopped)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "250 ml Milk"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "100 g Walnut (grated)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "2 tbsps Bread crumbs (dark or white bread)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 kg Red cabbage"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Quince (peeled)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "2 pieces Apples (small)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "6 cl Apple vinegar"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "200 ml Apple juice"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "250 ml Red wine"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1-2 tbsps Cranberries"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "2 tbsps Goose dripping (or lard)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "Allspice seeds (ground)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      },
+      {
+        "icount": {
+          "type": "literal",
+          "value": "UserViews: 3639"
+        },
+        "totalTime": {
+          "type": "literal",
+          "value": "PT75M"
+        },
+        "recipe": {
+          "type": "literal",
+          "value": "Clean and wash the duck inside and out, and then salt. For the stuffing, dice the apples and the onion and combine with pepper, caraway seeds and the herbs. Stuff inside the cavity of the duck and close the opening with a pin.Fill a frying pan with water to the depth of about 1 cm. Place the onion slices and the duck with breast facing up into the pan. Place in a preheated oven and roast at 180 °C for 30 minutes. Then baste the duck, leave for about 10 minutes, and remove from the oven. Cover with foil and roast at 90 °C for another 50 minutes with the door slightly open. (The meat should loosen and stay juicy and slightlypink) Carve the duck, and put under the grill for a few minutes until crispy. Collect the fat from the grilled duck and, in a pan, use it to sauté the finely chopped bones along with the stuffing. Pour over the wine and stock and simmer until the liquid is reduced to about half.PREPARATION FOR THE SEMOLINA DUMPLINGSSauté the shallots in butter in a saucepan until transparent. Gradually sprinkle in the semolina, sauté lightly, and add themilk. Seasonwith salt and nutmeg, and stir until the mixture thickens and separates from the pot. Allow to cool slightly. Once the mixture has cooled, add the egg and egg whites, and refrigerate for 20 minutes. With moist hands, form 12 dumplings from the mass and simmer in saltwater on medium heat for about 10 minutes. For the nut-crumbs, heat the butteruntil it sizzles and add the walnuts and the breadcrumbs. Fry briefly and toss the well-drained dumplings in the crumbs.PREPARATION FOR THE RED CABBAGE AND QUINCEBefore marinating, halve the cabbage, removing the stem and cut finely or slice. Peel and seed the apples and grate coarsely. Combine the cabbage with salt, apples, vinegar, apple juice, wine and cranberries. Cover, and let stand overnight. Slice the onion thinly and sauté in the dripping. Sprinkle in the sugar and melt until light brown in color.Add the cabbage and themarinade, and simmer for about 40 minutes until soft, regularly adding water. While the cabbage is cooking, peel the quince and cut into 2 mm cubes. Add to the cabbage with the grated ginger, a pinch of powdered caraway, pepper, bay leaf and the allspice seeds. Simmer. Should the cabbage mixture not bind well enough, add some grated potato or water and cornstarch."
+        },
+        "name": {
+          "type": "literal",
+          "value": "Free-Range duck with semolina dumplings and red cabbage and quince"
+        },
+        "ingredients": {
+          "type": "literal",
+          "value": "1 piece Ginger (small)"
+        },
+        "recImage": {
+          "type": "literal",
+          "value": "//images.ichkoche.at/data/image/variations/496x384/1/bauernente-mit-griessknoederln-und-quitten-rotkraut-img-2239.jpg"
+        },
+        "recYield": {
+          "type": "literal",
+          "value": "Portionen: 4"
+        }
+      }
+    ]
+  }
+}
