@@ -19,8 +19,9 @@ class RecipeSkill(MycroftSkill):
     def handle_recipe_with_ingredients(self, message):
         r = json.loads(query_graph({"ingredient": [message.data['ingredient']]}))
         first_recipe =  r['results']['bindings'][0]['name']['value']
-
-        self.speak_dialog("recipes.with.ingredients", data={"recipe": first_recipe})
+        total_time =  r['results']['bindings'][0]['totalTime']['value'].replace('PT','').replace('M', '')
+        
+        self.speak_dialog("recipes.with.ingredients", data={"recipe": first_recipe, "total_time": total_time})
 
 def execute_query(input_data):
     URI = 'http://graphdb.sti2.at:8080/repositories/broker-graph'
