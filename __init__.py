@@ -5,7 +5,7 @@ from mycroft.util.log import getLogger
 import requests
 import json 
 import os
-
+import random
 
 LOGGER = getLogger(__name__)
 
@@ -18,8 +18,12 @@ class RecipeSkill(MycroftSkill):
     @intent_file_handler('recipe.intent')
     def handle_recipe_with_ingredients(self, message):
         r = json.loads(query_graph({"ingredient": [message.data['ingredient']]}))
-        first_recipe =  r['results']['bindings'][0]['name']['value']
-        total_time =  r['results']['bindings'][0]['totalTime']['value'].replace('PT','').replace('M', '')
+        index = random.randint(0, len(r['results']['bindings']))
+        first_recipe =  r['results']['bindings'][index]['name']['value']
+        total_time =  r['results']['bindings'][index]['totalTime']['value'].replace('PT','').replace('M', '')
+        # If total time is 75 the recipe takes longe thank 60 minutes 
+        if total_time == '75':
+            total_time = 'at least 60'
         
         self.speak_dialog("recipes.with.ingredients", data={"recipe": first_recipe, "total_time": total_time})
     
