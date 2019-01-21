@@ -17,11 +17,19 @@ class RecipeSkill(MycroftSkill):
 
     @intent_file_handler('recipe.intent')
     def handle_recipe_with_ingredients(self, message):
-        r = json.loads(query_graph({"ingredient": [message.data['ingredient']]}))
+        if message.data.get('ingredient', None) == None:
+            self.speak_dialog("recipes.no.ingredient")
+            return 
+        r = json.loads(
+            query_graph(
+                    {
+                        "ingredient": explode_multiple_ingredients(message.data['ingredient'])
+                    })
+            )
         index = random.randint(0, len(r['results']['bindings']))
         first_recipe =  r['results']['bindings'][index]['name']['value']
         total_time =  r['results']['bindings'][index]['totalTime']['value'].replace('PT','').replace('M', '')
-        # If total time is 75 the recipe takes longe thank 60 minutes 
+        # If total time is 75 the recipe takes longe than 60 minutes 
         if total_time == '75':
             total_time = 'at least 60'
         
@@ -29,13 +37,28 @@ class RecipeSkill(MycroftSkill):
     
     @intent_file_handler('recipe.time.low.intent')
     def handle_recipe_with_ingredients_time_low(self, message):
-        r = json.loads(query_graph({"ingredient": [message.data['ingredient']]}))
+        if message.data.get('ingredient', None) == None:
+            self.speak_dialog("recipes.no.ingredient")
+            return 
+        r = json.loads(
+            query_graph(
+                    {
+                        "ingredient": explode_multiple_ingredients(message.data['ingredient'])
+                    })
+            )
         fastest_recipe_index = get_recipe_with_lowest_cooking_time(r)
         first_recipe =  r['results']['bindings'][fastest_recipe_index]['name']['value']
         total_time =  r['results']['bindings'][fastest_recipe_index]['totalTime']['value'].replace('PT','').replace('M', '')
-        
+        # If total time is 75 the recipe takes longe than 60 minutes 
+        if total_time == '75':
+            total_time = 'at least 60'
+
         self.speak_dialog("recipes.with.ingredients.time.low", data={"recipe": first_recipe, "total_time": total_time})
 
+
+def explode_multiple_ingredients(ingredients):
+    ingredients = ingredients.replace('and', '').strip()
+    return ingredients.split()
 
 def execute_query(input_data):
     URI = 'http://graphdb.sti2.at:8080/repositories/broker-graph'
